@@ -1,0 +1,1 @@
+Entities like Supplier, Ingredient, Transaction, and LogEntry will be created here

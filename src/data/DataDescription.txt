@@ -1,0 +1,1 @@
+Besides entities and repositories, the data folder wil also contain the logic used to store and save (as a CSV file) the data.
